@@ -1,4 +1,4 @@
-# **2. Loan Prediction Using Random Forest Classifer.**
+# **Loan Prediction Using Random Forest Classifer.**
 
 **Live Application**
 
@@ -80,4 +80,5 @@ The trained model is deployed using Streamlit, allowing users to input loan and 
 Feature alignment between training and deployment is strictly enforced to ensure reliable and consistent predictions.
 
 </details>
+
 
