@@ -2,7 +2,7 @@
 
 **Live Application**
 
-https://your-streamlit-app-link-here
+[https://your-streamlit-app-link-here](https://loanpaybackpredictionrandomforest-j6zzon5knr5rkklmhbkcdr.streamlit.app/)
 
 Use the link above to interact with the application and predict whether a loan is likely to be repaid or defaulted in real time.
 
@@ -80,3 +80,4 @@ The trained model is deployed using Streamlit, allowing users to input loan and 
 Feature alignment between training and deployment is strictly enforced to ensure reliable and consistent predictions.
 
 </details>
+
