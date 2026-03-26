@@ -79,6 +79,8 @@ data preprocessing → feature engineering → model training → model evaluati
 The trained model is deployed using Streamlit, allowing users to input loan and borrower details and receive instant predictions.
 Feature alignment between training and deployment is strictly enforced to ensure reliable and consistent predictions.
 
+### Data Source: [Predicting Loan Payback](kaggle competitions download -c playground-series-s5e11)
+
 </details>
 
 
