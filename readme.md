@@ -18,7 +18,7 @@ The model is trained, evaluated, and deployed through an interactive Streamlit w
 
 data preprocessing → feature engineering → model training → model evaluation → deployment
 
-### **Features**
+## **Features**
 
 - Predicts loan repayment or default in real time
 
@@ -74,12 +74,12 @@ data preprocessing → feature engineering → model training → model evaluati
 
 - Capability to handle imbalanced datasets effectively (especially when combined with class weighting techniques)
 
-### **Deployment**
+## **Deployment**
 
 The trained model is deployed using Streamlit, allowing users to input loan and borrower details and receive instant predictions.
 Feature alignment between training and deployment is strictly enforced to ensure reliable and consistent predictions.
 
-### Data Source  
+## Data Source  
 [Predicting Loan Payback](https://www.kaggle.com/competitions/playground-series-s5e11)
 
 </details>
